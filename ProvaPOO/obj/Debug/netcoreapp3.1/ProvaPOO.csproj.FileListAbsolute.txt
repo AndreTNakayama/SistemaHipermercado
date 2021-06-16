@@ -1,0 +1,16 @@
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.exe
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.deps.json
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.runtimeconfig.json
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.runtimeconfig.dev.json
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.dll
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\bin\Debug\netcoreapp3.1\ProvaPOO.pdb
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.csproj.AssemblyReference.cache
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.frmHipermercado.resources
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.Properties.Resources.resources
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.csproj.GenerateResource.cache
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.AssemblyInfoInputs.cache
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.AssemblyInfo.cs
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.csproj.CoreCompileInputs.cache
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.dll
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.pdb
+C:\Users\Second\source\repos\ProvaPOO\ProvaPOO\obj\Debug\netcoreapp3.1\ProvaPOO.genruntimeconfig.cache
